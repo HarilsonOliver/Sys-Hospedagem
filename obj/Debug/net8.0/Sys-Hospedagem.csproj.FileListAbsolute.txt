@@ -1,0 +1,14 @@
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\bin\Debug\net8.0\Sys-Hospedagem.exe
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\bin\Debug\net8.0\Sys-Hospedagem.deps.json
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\bin\Debug\net8.0\Sys-Hospedagem.runtimeconfig.json
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\bin\Debug\net8.0\Sys-Hospedagem.dll
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\bin\Debug\net8.0\Sys-Hospedagem.pdb
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.AssemblyInfoInputs.cache
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.AssemblyInfo.cs
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.csproj.CoreCompileInputs.cache
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.dll
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\refint\Sys-Hospedagem.dll
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.pdb
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\Sys-Hospedagem.genruntimeconfig.cache
+C:\Users\Harilson\Documents\Projetos\Sys-Gerenciamento\Sys-Hospedagem\obj\Debug\net8.0\ref\Sys-Hospedagem.dll
